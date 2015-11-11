@@ -1,0 +1,7 @@
+New log file opened at Sat Nov 07 14:00:12 CET 2015 by 18277@oegnus-Lenovo-G50-70
+Taking next connection to: 42592
+New client attempting to connect on port: 56042-42592
+  Address = /127.0.1.1:42592
+This client on port 56042 has uuid 302a8277-9b13-4f2b-8a8b-45f7487ca8e0 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-302a8277-9b13-4f2b-8a8b-45f7487ca8e0
+Taking next connection to: 42592
